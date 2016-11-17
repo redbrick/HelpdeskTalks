@@ -1,4 +1,4 @@
-## Networking with Raspberry Pis
+### Networking with Raspberry Pis
 
 * These scripts were used in demonstrating how to make a network of raspberry pis
 
@@ -8,7 +8,7 @@
 
 * Network.py is a module that chat.py depends on to run
 
-# Using chat.py
+## Using chat.py
 
 * If you are the <b>server</b> chat.py is run as follows:
 
