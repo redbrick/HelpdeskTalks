@@ -12,8 +12,8 @@
 
 * If you are the <b>server</b> chat.py is run as follows:
 
-<code>python3 chay.py </code>
+<code>python3 chat.py </code>
 
 * If you are the client you can run as follows:
 
-<code>python3 chat.py <address of server> </code> 
+<code>python3 chat.py SERVERADDRESS </code> 
