@@ -14,6 +14,6 @@
 
 <code>python3 chat.py </code>
 
-* If you are the client you can run as follows:
+* If you are the <b>client</b> you can run as follows:
 
 <code>python3 chat.py SERVERADDRESS </code> 
