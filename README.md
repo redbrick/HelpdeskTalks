@@ -4,4 +4,4 @@
 
 * Slides can be found at:
 
-** http://www.redbrick.dcu.ie/~edu/
+    * [RedbrickEdu](http://www.redbrick.dcu.ie/~edu/)
